@@ -71,6 +71,15 @@ cd complaint-classification
  └── README.md            # Project documentation
  ```
 ## EDA Results
+![DataFrame head](images/dataframehead.png)
+![Auto Detect Columns](images/auto-detect-col.png)
+![EDA Part 1](images/EDA1.png)
+![EDA Part 2](images/EDA2.png)
+![EDA Part 3](images/EDA3.png)
+![Logistic Regression Model](images/LR_Model.png)
+![Multi Naive Bayes](images/MultiNB_model.png)
+![Predicted_output](images/Predicted_output.png)
+
 
 
 ## License
