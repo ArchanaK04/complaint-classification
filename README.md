@@ -41,8 +41,39 @@ The goal is to classify consumer complaints into one of the following categories
 
 ## How to Run
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/ArchanaK04/complaint-classification.git
 cd complaint-classification
+
+```
+ 2. **Install dependencies:**
+
+ ```bash
+  pip install -r requirements.txt
+ ```
+
+ 3. **Download the dataset from the Consumer Complaint Database
+ and place it in the project directory as complaints.csv**
+
+
+ 5. **Open and run the notebook:**
+ jupyter notebook TASK5.ipynb
+
+
+ ## Project Structure
+ 
+ ```bash
+ ├── TASK5.ipynb          # Main notebook
+ ├── complaints.csv       # Dataset (not included)
+ ├── requirements.txt     # Dependencies
+ └── README.md            # Project documentation
+ ```
+
+
+
+## License
+
+Copyright © 2025 Kaiburr LLC.  
+All rights reserved.
