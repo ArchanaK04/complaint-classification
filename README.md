@@ -39,9 +39,10 @@ The goal is to classify consumer complaints into one of the following categories
 
 ---
 
-## Requirements
-Make sure you have Python installed along with the following dependencies:
+## How to Run
+
+1. Clone the repository:
 
 ```bash
-pip install -r requirements.txt
-
+git clone https://github.com/ArchanaK04/complaint-classification.git
+cd complaint-classification
